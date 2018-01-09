@@ -1,3 +1,6 @@
+# Exercise 1: More Variables And Printing #
+###########################################
+
 #print "Hello World"
 #print "Hello Again"
 #print "I like typing this."

@@ -1,3 +1,5 @@
+# Exercise 2: Comments and Pound Characters #
+#############################################
 #USING HASH TO COMMENT THINGS OUT
 
 # A comment, this is so you can read your program later.
