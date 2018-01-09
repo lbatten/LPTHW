@@ -23,7 +23,9 @@ body {
 }
 
 h1 {
+	font-family: cursive;
 	color: #FFFFFF;
+	margin: 20px;
 }
 
 h2 {
@@ -37,6 +39,12 @@ h2 {
 }
 
 .Odd {
-  background-color: grey;
+  background-color: #bebebe;
   color: purple;
+}
+
+.box {
+	margin: 20px;
+	padding-bottom: 10px;
+	border-radius: 15px;
 }
